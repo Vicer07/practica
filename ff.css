@@ -1,0 +1,18 @@
+body{
+    background-color: yellow;
+}
+
+contenedor{
+     background-color: skyblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.ci{
+    color: skyblue;
+    text-align: center;
+    background-color: red;
+   padding: 20px;
+    margin: 50px;
+    
+}
